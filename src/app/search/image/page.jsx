@@ -47,3 +47,4 @@ export default async function ImageSearchPage({ searchParams }) {
 
 }
 
+
